@@ -14,3 +14,6 @@ Dirt Cheap Night Vision
 
 ## Wiring Diagram
 ![Wiring Diagram](https://github.com/MrBaguette101/DCNV/blob/main/Images/WiringDiagram.png)
+
+## Notes
+There will most likely be a white wire along with the black. All you need to do it solder them together because they are both ground.
