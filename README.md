@@ -13,4 +13,4 @@ Dirt Cheap Night Vision
 4x Random screws that I had around the house. (I am working on refining design to not need screws) 
 
 ## Wiring Diagram
-![Wiring Diagram](https://github.com/MrBaguette101/DCNV/blob/main/Images/Wiring%20Diagram.png)
+![Wiring Diagram](https://github.com/MrBaguette101/DCNV/blob/main/Images/WiringDiagram.png)
